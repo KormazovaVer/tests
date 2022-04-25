@@ -19,8 +19,8 @@ from db import people
 
 print("Module people was imported", "\n")
 
-print("Начато выполнение if __name__ == '__main__'", "\n")
+print("Start of execution if __name__ == '__main__'", "\n")
 if __name__ == '__main__':
     salary.calculate_salary()
     people.get_employees()
-print("Закончено выполнение if __name__ == '__main__'")
+print("Completion of execution if __name__ == '__main__'")
