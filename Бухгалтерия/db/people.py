@@ -1,2 +1,2 @@
 def get_employees():
-  print("Выполнение def get_employees() из модуля people.py", "\n")
+  print("Execution def get_employees() from module people.py", "\n")
