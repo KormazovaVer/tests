@@ -1,2 +1,2 @@
 def calculate_salary():
-  print("Выполнение def calculate_salary() из модуля salary.py", "\n")
+  print("Execution def calculate_salary() from module salary.py", "\n")
